@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "@types/lowdb": "^1.0.15",
+    "hono": "^4.3.6",
+    "lowdb": "^7.0.1"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
